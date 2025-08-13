@@ -150,7 +150,7 @@ Hi, I'm **Noch Kakada**, founder of **MechEmbed**. I create embedded systems tha
 > Embedded & Android integration for smart charging
 
 <p align="center">
-  <img src="./assets/system-architecture.png" width="700" alt="System Architecture" />
+  <img src="system-architecture.png" width="700" alt="System Architecture" />
 </p>
 
 **Includes:**
